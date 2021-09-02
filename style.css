@@ -1,0 +1,32 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+.logo{
+  text-decoration: none;
+  margin-left: 25px;
+  font-size: 25px;
+}
+
+.parag{
+  width: 100%;
+  text-align: center;
+  overflow: hidden;
+}
+
+.parag>a{
+  text-decoration: none;
+  color: black;
+}
+
+.list-group-item{
+  width: 100%;
+  text-align: center;
+}
+
+.list{
+  display: flex;
+  justify-content: center;
+}
+
